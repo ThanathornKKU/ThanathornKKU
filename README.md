@@ -1,6 +1,6 @@
 # About Me 🌟  
 
-Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and a **third-year Computer Science student** at **Khon Kaen University**. I love crafting beautiful and interactive web applications that provide a seamless user experience.  
+Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and a **third-year Computer Science student** at **Khon Kaen University**. I enjoy creating beautiful, interactive web applications that provide a smooth user experience.
 
 ## Areas of Interest 🚀  
 - **Frontend Development**: Creating intuitive and responsive user interfaces with modern frameworks.  
@@ -21,8 +21,7 @@ Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passiona
   &nbsp; &nbsp; ◦ MySQL, Firebase, MongoDB  
 
 - ### **Frameworks & Tools**  
-  &nbsp; &nbsp; ◦ Postman, Git, GitHub, Docker  
-  &nbsp; &nbsp; ◦ Eclipse, Visual Studio Code, Figma, Draw.io  
+  &nbsp; &nbsp; ◦ Postman, Git, GitHub, Docker, Eclipse, Visual Studio Code, Figma, Draw.io  
 
 - ### **Testing & Development**  
   &nbsp; &nbsp; ◦ Unit Testing, Integration Testing, User Acceptance Testing  
