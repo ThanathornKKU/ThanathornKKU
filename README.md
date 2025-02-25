@@ -1,55 +1,55 @@
-# 🚀 Thanathorn Chulay - Frontend Developer  
+---
 
-## 👨‍💻 About Me  
-I'm a **third-year Computer Science student** at **Khon Kaen University** 🎓, passionate about **frontend development**.  
-My experience comes from university projects, personal projects, and self-learning 📚.  
-I'm always eager to **explore new technologies** and build user-friendly applications! 🎯  
+# About Me 🌟  
+
+Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and a **third-year Computer Science student** at **Khon Kaen University**. I love crafting beautiful and interactive web applications that provide a seamless user experience.  
+
+Besides coding, I enjoy exploring new technologies, improving my problem-solving skills, and collaborating on exciting projects.  
 
 ---
 
-## 🛠 Skills  
-
-### 🎨 **Frontend Development**  
-- 🏗 **HTML**, 🎨 **CSS**, 🌀 **Tailwind**, 🎭 **Bootstrap**  
-- ⚛ **React**, ⚡ **Next.js**  
-
-### 🖥 **Programming Languages**  
-- 🟨 **JavaScript**, ☕ **Java**, 🐍 **Python**, 🔵 **C**  
-
-### 🗄 **Database**  
-- 🗃 **MySQL**, 🔥 **Firebase**, 🍃 **MongoDB**  
-
-### 🎨 **Design & Prototyping**  
-- ✏️ **UI/UX Design**, 🖼 **Wireframing**, 🔄 **Prototyping**, 🏗 **System Design**  
-- 🖌 **Figma**, 📊 **Draw.io**, 🧩 **Miro**  
-
-### ✅ **Testing**  
-- 🧪 **Unit Testing**, 🔗 **Integration Testing**, ✅ **User Acceptance Testing**  
-
-### 🛠 **Development Tools**  
-- 📮 **Postman**, 🖥 **Eclipse IDE**, 📝 **Visual Studio Code**  
-- 🔄 **Git**, 🐙 **GitHub**, 🐳 **Docker**  
+## Areas of Interest 🚀  
+- **Frontend Development**: Creating intuitive and responsive user interfaces with modern frameworks.  
+- **Web Performance Optimization**: Enhancing website speed and efficiency for a better user experience.  
+- **UI/UX Design**: Designing visually appealing and user-friendly interfaces.  
+- **Software Testing**: Ensuring high-quality applications through unit and integration testing.  
+- **Collaboration & Agile Development**: Working with teams using Scrum and TDD methodologies.  
 
 ---
 
-## 🎓 Education  
+## Skills & Technologies 💻  
 
-### **Bachelor of Science in Computer Science**  
-- 🏫 **Khon Kaen University** (Expected Graduation: **2025**)  
-- 📊 **GPA:** 3.39  
+### **Languages**  
+- JavaScript, Java, Python, C  
 
-### **Science-Mathematics Program**  
-- 🏫 **Chum Phae Suksa School**  
-- 📊 **GPA:** 3.92  
+### **Frontend Development**  
+- HTML, CSS, Tailwind, Bootstrap, React, Next.js  
+
+### **Databases**  
+- MySQL, Firebase, MongoDB  
+
+### **Frameworks & Tools**  
+- Postman, Git, GitHub, Docker, Eclipse, Visual Studio Code, Figma, Draw.io  
+
+### **Testing & Development**  
+- Unit Testing, Integration Testing, User Acceptance Testing  
 
 ---
 
-## 📬 Contact  
+## What I Do 🛠  
+- Build modern and responsive web applications.  
+- Design and develop UI/UX for web platforms.  
+- Implement structured and scalable frontend architecture.  
+- Work with APIs to integrate backend services.  
+- Collaborate in Agile teams using Scrum and TDD.  
 
-📍 **Location:** Khon Kaen, Thailand 🇹🇭  
-📧 **University Email:** [thanathorn.c@kkumail.com](mailto:thanathorn.c@kkumail.com)  
-📧 **Personal Email:** [petchthanathorn@gmail.com](mailto:petchthanathorn@gmail.com)  
-📱 **Phone:** +66 6 5094 8687  
-🐙 **GitHub:** [ThanathornKKU](https://github.com/ThanathornKKU)  
+---
 
-✨ _Let's connect and build something awesome together!_ 🚀🎯  
+## Connect with Me 📩  
+- **University Email**: [thanathorn.c@kkumail.com](mailto:thanathorn.c@kkumail.com)  
+- **Personal Email**: [petchthanathorn@gmail.com](mailto:petchthanathorn@gmail.com)  
+
+🚀 **Join me on this journey—let’s learn, grow, and create awesome things together!** 💡💻  
+
+
+---
