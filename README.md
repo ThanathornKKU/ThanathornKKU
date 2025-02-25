@@ -11,20 +11,22 @@ Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passiona
 
 ## Skills & Technologies 💻  
 
-### **Languages**  
-- JavaScript, Java, Python, C  
+- ### **Languages**  
+  &nbsp; &nbsp; ◦ JavaScript, Java, Python, C  
 
-### **Frontend Development**  
-- HTML, CSS, Tailwind, Bootstrap, React, Next.js  
+- ### **Frontend Development**  
+  &nbsp; &nbsp; ◦ HTML, CSS, Tailwind, Bootstrap, React, Next.js  
 
-### **Databases**  
-- MySQL, Firebase, MongoDB  
+- ### **Databases**  
+  &nbsp; &nbsp; ◦ MySQL, Firebase, MongoDB  
 
-### **Frameworks & Tools**  
-- Postman, Git, GitHub, Docker, Eclipse, Visual Studio Code, Figma, Draw.io  
+- ### **Frameworks & Tools**  
+  &nbsp; &nbsp; ◦ Postman, Git, GitHub, Docker  
+  &nbsp; &nbsp; ◦ Eclipse, Visual Studio Code, Figma, Draw.io  
 
-### **Testing & Development**  
-- Unit Testing, Integration Testing, User Acceptance Testing  
+- ### **Testing & Development**  
+  &nbsp; &nbsp; ◦ Unit Testing, Integration Testing, User Acceptance Testing  
+
 
 ## What I Do 🛠  
 - Build modern and responsive web applications.  
