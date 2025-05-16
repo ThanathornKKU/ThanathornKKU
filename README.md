@@ -1,10 +1,9 @@
 # About Me 🌟  
 
-Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and a **4th-year Computer Science student** at **Khon Kaen University**. I enjoy creating beautiful, interactive web applications that provide a smooth user experience.
+Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and **QA Tester**. I'm a **4th-year Computer Science student** at **Khon Kaen University**. I enjoy creating beautiful, interactive web applications that provide a smooth user experience.
 
 ## Areas of Interest 🚀  
 - **Frontend Development**: Creating intuitive and responsive user interfaces with modern frameworks.  
-- **Web Performance Optimization**: Enhancing website speed and efficiency for a better user experience.  
 - **UI/UX Design**: Designing visually appealing and user-friendly interfaces.  
 - **Software Testing**: Ensuring high-quality applications through unit and integration testing.  
 - **Collaboration & Agile Development**: Working with teams using Scrum and TDD methodologies.  
