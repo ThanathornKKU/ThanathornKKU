@@ -17,7 +17,7 @@ Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passiona
   &nbsp; &nbsp; ◦ HTML, CSS, Tailwind, Bootstrap, React, Next.js, TypeScript   
 
 - ### **Design**  
-  &nbsp; &nbsp; ◦ UI/UX Design, Wireframing, Prototyping, System Design
+  &nbsp; &nbsp; ◦ UI/UX Design, Wireframing, Prototyping, Database Design
   
 - ### **Databases**  
   &nbsp; &nbsp; ◦ MySQL, Firebase, MongoDB
