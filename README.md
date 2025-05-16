@@ -22,8 +22,10 @@ Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passiona
 - ### **Databases**  
   &nbsp; &nbsp; ◦ MySQL, Firebase, MongoDB
 
-  - ### **Testing**  
-  &nbsp; &nbsp; ◦ Unit Testing, Integration Testing, End-to-End (E2E) Testing, User Acceptance Testing, Manual Testing, Automated Testing, Test Design, Test Case Writing  
+- ### **Testing**  
+  &nbsp; &nbsp; ◦ Unit Testing, Integration Testing, End-to-End (E2E) Testing, User Acceptance Testing
+
+  &nbsp; &nbsp; ◦ Manual Testing, Automated Testing, Test Design, Test Case Writing  
 
 - ### **Frameworks & Tools**  
   &nbsp; &nbsp; ◦ Postman, Jest, Robot Framework, Git, GitHub, Docker, Eclipse, Visual Studio Code, Figma, Draw.io, Wix  
