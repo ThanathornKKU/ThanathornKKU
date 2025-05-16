@@ -1,6 +1,6 @@
 # About Me 🌟  
 
-Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and a **third-year Computer Science student** at **Khon Kaen University**. I enjoy creating beautiful, interactive web applications that provide a smooth user experience.
+Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and a **4th-year Computer Science student** at **Khon Kaen University**. I enjoy creating beautiful, interactive web applications that provide a smooth user experience.
 
 ## Areas of Interest 🚀  
 - **Frontend Development**: Creating intuitive and responsive user interfaces with modern frameworks.  
@@ -11,28 +11,23 @@ Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passiona
 
 ## Skills & Technologies 💻  
 
-- ### **Languages**  
+- ### **Programming Languages**  
   &nbsp; &nbsp; ◦ JavaScript, Java, Python, C  
 
 - ### **Frontend Development**  
-  &nbsp; &nbsp; ◦ HTML, CSS, Tailwind, Bootstrap, React, Next.js  
+  &nbsp; &nbsp; ◦ HTML, CSS, Tailwind, Bootstrap, React, Next.js, TypeScript   
 
+- ### **Design**  
+  &nbsp; &nbsp; ◦ UI/UX Design, Wireframing, Prototyping, System Design
+  
 - ### **Databases**  
-  &nbsp; &nbsp; ◦ MySQL, Firebase, MongoDB  
+  &nbsp; &nbsp; ◦ MySQL, Firebase, MongoDB
+
+  - ### **Testing**  
+  &nbsp; &nbsp; ◦ Unit Testing, Integration Testing, End-to-End (E2E) Testing, User Acceptance Testing, Manual Testing, Automated Testing, Test Design, Test Case Writing  
 
 - ### **Frameworks & Tools**  
-  &nbsp; &nbsp; ◦ Postman, Git, GitHub, Docker, Eclipse, Visual Studio Code, Figma, Draw.io  
-
-- ### **Testing & Development**  
-  &nbsp; &nbsp; ◦ Unit Testing, Integration Testing, User Acceptance Testing  
-
-
-## What I Do 🛠  
-- Build modern and responsive web applications.  
-- Design and develop UI/UX for web platforms.  
-- Implement structured and scalable frontend architecture.  
-- Work with APIs to integrate backend services.  
-- Collaborate in Agile teams using Scrum and TDD.  
+  &nbsp; &nbsp; ◦ Postman, Jest, Robot Framework, Git, GitHub, Docker, Eclipse, Visual Studio Code, Figma, Draw.io, Wix  
 
 ## Connect with Me 📩  
 - **University Email**: [thanathorn.c@kkumail.com](mailto:thanathorn.c@kkumail.com)  
