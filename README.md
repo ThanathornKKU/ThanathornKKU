@@ -1,40 +1,25 @@
-# About Me 🌟  
+## About Me 🌟
 
-Hi there! I'm **Thanathorn Chulay**, but you can call me *Petch*. I'm a passionate **Frontend Developer** and **QA Tester**. I'm a **4th-year Computer Science student** at **Khon Kaen University**. I enjoy creating beautiful, interactive web applications that provide a smooth user experience.
+Hi! I'm Thanathorn Chulay — you can call me Petch.
 
-## Areas of Interest 🚀  
-- **Frontend Development**: Creating intuitive and responsive user interfaces with modern frameworks.  
-- **UI/UX Design**: Designing visually appealing and user-friendly interfaces.  
-- **Software Testing**: Ensuring high-quality applications through unit and integration testing.  
-- **Collaboration & Agile Development**: Working with teams using Scrum and TDD methodologies.  
+I'm a Computer Science graduate from Khon Kaen University (KKU) with a passion for Frontend Development, Quality Assurance, and UX/UI Designer.
 
-## Skills & Technologies 💻  
+I enjoy building user-friendly web applications and ensuring product quality through structured testing and automation.
 
-- ### **Programming Languages**  
-  &nbsp; &nbsp; ◦ JavaScript, Java, Python, C  
+## Areas of Interest 🚀
 
-- ### **Frontend Development**  
-  &nbsp; &nbsp; ◦ HTML, CSS, Tailwind, Bootstrap, React, Next.js, TypeScript   
+- Frontend Development: Modern, responsive, and accessible UI development.
 
-- ### **Design**  
-  &nbsp; &nbsp; ◦ UI/UX Design, Wireframing, Prototyping, Database Design
-  
-- ### **Databases**  
-  &nbsp; &nbsp; ◦ MySQL, Firebase, MongoDB
+- Quality Assurance: Manual & automated testing, Playwright, Jest, Postman, CI/CD.
 
-- ### **Testing**  
-  &nbsp; &nbsp; ◦ Unit Testing, Integration Testing, End-to-End (E2E) Testing
+- UI/UX: Designing intuitive and smooth user experiences.
 
-  &nbsp; &nbsp; ◦ Manual Testing, Automated Testing, Test Design, Test Case Writing  
+## Contact Me 📩
 
-- ### **Frameworks & Tools**  
-  &nbsp; &nbsp; ◦ Postman, Jest, Robot Framework, TestRail, Playwright, Cypress, Git, GitHub, Docker, Eclipse, Visual Studio Code, Figma, Draw.io, Wix, Jira, MS Teams
+- University Email: thanathorn.c@kkumail.com
 
-## Connect with Me 📩  
-- **University Email**: [thanathorn.c@kkumail.com](mailto:thanathorn.c@kkumail.com)  
-- **Personal Email**: [petchthanathorn@gmail.com](mailto:petchthanathorn@gmail.com)  
+- Personal Email: petchthanathorn@gmail.com
 
-🚀 **Join me on this journey—let’s learn, grow, and create awesome things together!** 💡💻  
-
+💡 Always learning. Always building. Let's create something awesome together!
 
 ---
